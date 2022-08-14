@@ -238,6 +238,7 @@ section .img-container div .text-container .text4 a:hover{
 	display: flex;
 	justify-content: space-around;
 	color: white;
+	gap: 1.5vw;
 }
 
 .section3 .responds div{
